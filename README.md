@@ -3,7 +3,7 @@ I am a Civil Engineering from the Federal University of Paraíba (UFPB). Through
 
 In my graduation final paper I focused on hydrological time series using the wavelet transform, clusters, and artificial intelligence with MatLab, Python, and R. One can see a little bit more about me on my [LinkedIn page](https://www.linkedin.com/in/raul-souza-muniz-2b32b4194/) and in my [Lattes page](http://lattes.cnpq.br/9285097123034953)
 
-Presently, I am at the University of Paraiba as a Civil and environmental engineering master's student, I am also in [TAIL](https://github.com/TailUFPB), Artificial Intelligence group. I work with Artificial intelligence and hydrological models.
+Presently, I am at the Federal University of Paraiba as a Civil and environmental engineering master's student, I am also in [TAIL](https://github.com/TailUFPB) - Artificial Intelligence group. I work with Artificial intelligence and hydrological models.
 
 In that way, I’m currently working on geospatial studies with Google Earth Engine, ArcGis, and Qgis. Also, I'm thrilled to apply Artificial Intelligence in environmental modelings, such as Time Series forecasting with RNN, and CNN in satellite imagery classification. Other than that, I am studying some GAMLSS methodologies in rainfall predictions with R.
 <!--
